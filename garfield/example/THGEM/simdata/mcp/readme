@@ -1,0 +1,13 @@
+﻿4 #m_nMaterials 
+1.0 # 0, material_0 epsilon, Cu
+4.5 # 1, FR4
+1   # 2, Ar
+4.3 # 3, Resistive plate
+7 #d2msize, 7 domain for example, !!! material id starts from 0 !!! domain id must be the same as in COMSOL
+1 3 #d1 is set to Resistive plate
+2 1 #d2 is set to FR4
+3 0 #d3 is set to Cu
+4 2 #d4 is set to Ar
+5 0 #d5 is set to Cu
+6 1 #d6 is set to FR4
+7 0 #d7 is set to Cu
